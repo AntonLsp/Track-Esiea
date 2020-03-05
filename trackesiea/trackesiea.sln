@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client_Test", "Client_Test\Client_Test.vcxproj", "{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera_Calibration", "Camera_Calibration\Camera_Calibration.vcxproj", "{FFC5105A-915B-4035-884D-79C80CEFF642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - Antoine|x64 = Debug - Antoine|x64
+		Debug - Antoine|x86 = Debug - Antoine|x86
+		Debug - Lucas|x64 = Debug - Lucas|x64
+		Debug - Lucas|x86 = Debug - Lucas|x86
+		Debug - Marko|x64 = Debug - Marko|x64
+		Debug - Marko|x86 = Debug - Marko|x86
+		Release - Antoine|x64 = Release - Antoine|x64
+		Release - Antoine|x86 = Release - Antoine|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Antoine|x64.ActiveCfg = Debug - Antoine|x64
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Antoine|x64.Build.0 = Debug - Antoine|x64
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Antoine|x86.ActiveCfg = Debug - Antoine|Win32
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Antoine|x86.Build.0 = Debug - Antoine|Win32
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Lucas|x64.ActiveCfg = Debug - Lucas|x64
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Lucas|x86.ActiveCfg = Debug - Lucas|Win32
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Marko|x64.ActiveCfg = Debug - Marko|x64
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Marko|x64.Build.0 = Debug - Marko|x64
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Marko|x86.ActiveCfg = Debug - Marko|Win32
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Debug - Marko|x86.Build.0 = Debug - Marko|Win32
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Release - Antoine|x64.ActiveCfg = Release - Antoine2|x64
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Release - Antoine|x64.Build.0 = Release - Antoine2|x64
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Release - Antoine|x86.ActiveCfg = Release - Antoine2|Win32
+		{81C8FB62-0E8B-4143-AF64-EF345FEF0F57}.Release - Antoine|x86.Build.0 = Release - Antoine2|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Antoine|x64.ActiveCfg = Debug - Antoine|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Antoine|x64.Build.0 = Debug - Antoine|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Antoine|x86.ActiveCfg = Debug - Antoine|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Antoine|x86.Build.0 = Debug - Antoine|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Lucas|x64.ActiveCfg = Debug - Lucas|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Lucas|x64.Build.0 = Debug - Lucas|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Lucas|x86.ActiveCfg = Debug - Lucas|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Lucas|x86.Build.0 = Debug - Lucas|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Marko|x64.ActiveCfg = Debug - Marko|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Marko|x64.Build.0 = Debug - Marko|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Marko|x86.ActiveCfg = Debug - Marko|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Debug - Marko|x86.Build.0 = Debug - Marko|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Release - Antoine|x64.ActiveCfg = Debug - Marko|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Release - Antoine|x64.Build.0 = Debug - Marko|x64
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Release - Antoine|x86.ActiveCfg = Debug - Marko|Win32
+		{FFC5105A-915B-4035-884D-79C80CEFF642}.Release - Antoine|x86.Build.0 = Debug - Marko|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8092259F-A447-4B60-A7B6-4E1776DE7B58}
+	EndGlobalSection
+EndGlobal
